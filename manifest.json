@@ -1,0 +1,19 @@
+{
+  "name": "阿瓜的工作台",
+  "short_name": "阿瓜",
+  "description": "工地节点、求职进度、选题池、每日精进，一个页面看完",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef6ff",
+  "theme_color": "#2b7fff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
